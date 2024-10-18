@@ -31,7 +31,7 @@ sections:
           chevron: true
           hidden: false
           label: Learn more
-        headline: What is this for and why?
+        headline: What is this for and?
         layout: stack
         target: 'https://about.design-system.agency/,'
         text: >-
